@@ -32,7 +32,7 @@
 
 ### 🛢️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
-![Oracle](https://img.shields.io/badge/Oracle-F80000-4479A1?style=flat&logo=mysql&logoColor=fff)
+![Oracle](https://img.shields.io/badge/Oracle-F80000-4479A1?style=flat&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
 
 ### ☁️ DevOps & Outros
