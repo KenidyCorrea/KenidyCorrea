@@ -44,8 +44,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=KenidyCorrea&show_icons=true&theme=tokyonight&hide=prs,issues)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=KenidyCorrea&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KenidyCorrea&theme=tokyo-night)
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=KenidyCorrea&theme=tokyonight&row=1&column=6)
+![Snake animation](https://github.com/KenidyCorrea/KenidyCorrea/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -55,3 +56,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:kenidycorrea37@gmail.com)
 
 ---
+![Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
