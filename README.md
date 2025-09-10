@@ -49,7 +49,7 @@
 ## 🌐 Conecte-se comigo
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=fff)](https://portfolio-6m0a.onrender.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/https://www.linkedin.com/in/kenidy-correa-3a7a14259/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kenidy-correa-3a7a14259/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff)](mailto:kenidycorrea37@gmail.com)
 
 ---
