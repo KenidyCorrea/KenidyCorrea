@@ -48,7 +48,7 @@
 
 ## 🌐 Conecte-se comigo
 
-<p align="center">
+<p align="start">
   <a href="https://portfolio-6m0a.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=fff" alt="Portfolio"/>
   </a>
