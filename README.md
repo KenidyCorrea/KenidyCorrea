@@ -1,63 +1,117 @@
-# 👋 Olá, eu sou o Kenidy
+<div align="center">
 
-💻 Desenvolvedor Fullstack | 🚀 Entusiasta de Tecnologia 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7F7,100:3178C6&height=200&section=header&text=Kenidy%20Correa&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
+
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Banner" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+o+Kenidy+%F0%9F%91%8B;Desenvolvedor+Fullstack+%F0%9F%9A%80;Apaixonado+por+tecnologia+%E2%9A%A1;Sempre+aprendendo+algo+novo+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## 🚀 Sobre mim
-- 🔭 Atualmente trabalhando em: **Grupo Santa Casa de Franca**
-- 🌱 Estudando: **NestJS, Next.js, Docker e DevOps**
-- 👯 Aberto a colaborar em: **projetos open source ou startups**
-- 💬 Pergunte-me sobre: **Node.js, React, SQL, integrações de sistemas**
-- ⚡ Curiosidade: **adoro resolver problemas complexos com soluções simples**
+## 🧑‍💻 Sobre mim
+
+```typescript
+const kenidy = {
+  trabalho:    "Grupo Santa Casa de Franca 🏥",
+  estudando:   ["NestJS", "Next.js", "Docker", "DevOps"],
+  interesses:  ["Open Source", "Startups", "Arquitetura de Sistemas"],
+  contato:     "kenidycorrea37@gmail.com",
+  curiosidade: "Adoro resolver problemas complexos com soluções simples ⚡"
+};
+```
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack
+
+<div align="center">
 
 ### 💻 Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff)
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=fff)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=fff)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
 
 ### 🛢️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 
-### ☁️ DevOps & Outros
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=fff)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
+### ☁️ DevOps & Ferramentas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KenidyCorrea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenidyCorrea&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KenidyCorrea&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 Troféus
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KenidyCorrea&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KenidyCorrea&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-<p align="start">
-  <a href="https://portfolio-6m0a.onrender.com/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=fff" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kenidy-correa-3a7a14259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=fff" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:kenidycorrea37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=fff" alt="Email"/>
-  </a>
-</p>
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=fff)](https://portfolio-6m0a.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kenidy-correa-3a7a14259/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kenidycorrea37@gmail.com)
+
+</div>
 
 ---
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=KenidyCorrea&color=3178C6&style=for-the-badge&label=Visitantes)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:6EE7F7&height=120&section=footer" />
+
+</div>
