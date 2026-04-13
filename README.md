@@ -63,8 +63,21 @@ const kenidy = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KenidyCorrea&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenidyCorrea&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KenidyCorrea&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenidyCorrea&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenidyCorrea&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KenidyCorrea&theme=tokyonight&utcOffset=-3"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenidyCorrea&theme=tokyonight"/>
 
 </div>
 
@@ -76,11 +89,13 @@ const kenidy = {
 
 ---
 
-## 🏆 Troféus
+## 🎯 Habilidades
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KenidyCorrea&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,express&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,materialui,postgres,mongodb,redis&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,github,postman&perline=6" />
 
 </div>
 
